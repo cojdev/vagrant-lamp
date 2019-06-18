@@ -16,7 +16,7 @@ A simple provision for setting up a LAMP stack virtual environment with Vagrant.
 Simply run the following:
 
 ```console
-vagrant up
+$ vagrant up
 ```
 
 Once everything is setup, the project will be accessible in the browser at:
@@ -26,5 +26,5 @@ Once everything is setup, the project will be accessible in the browser at:
 To access the command line in the box:
 
 ```console
-vagrant ssh
+$ vagrant ssh
 ```
